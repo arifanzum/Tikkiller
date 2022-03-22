@@ -42,5 +42,5 @@ def aftool(username):
         print('something went wrong')
 
 
-username = input("Enter the URL of the user (Example arifanxum) : ")
+username = input("Enter the username of the user (Example arifanxum) : ")
 aftool(username)
